@@ -8,12 +8,12 @@
   },
   "tokens": [
     {
-      "chainId": 7257,
+      "chainId": 18159,
       "address": "0xa1EED05494f79430556524486612150C2537d67A",
       "name": "POPDOGE",
       "symbol": "POPDOGE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/your-github-id/popdoge-token-assets/main/assets/blockchains/popchain/assets/0xa1EED05494f79430556524486612150C2537d67A/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/amigo-lab/popdoge-token-assets/main/assets/blockchains/popchain/assets/0xa1EED05494f79430556524486612150C2537d67A/logo.png"
     }
   ]
 }
