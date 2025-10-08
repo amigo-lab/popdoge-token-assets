@@ -1,0 +1,21 @@
+{
+  "name": "POPDOGE",
+  "symbol": "POPDOGE",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "POPDOGE - Doge가 팝콘처럼 터져 세상에 퍼진다!",
+  "website": "https://yourwebsite.com",
+  "explorer": "https://scan.popchain.ai/address/0xa1EED05494f79430556524486612150C2537d67A",
+  "status": "active",
+  "id": "0xa1EED05494f79430556524486612150C2537d67A",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/your-handle"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/your-channel"
+    }
+  ]
+}
